@@ -56,3 +56,13 @@ After analyzing the data, the recommended top three cities for new store opening
 3. Average sales per customer is better at 11.6k.
 
 ---
+##  Author
+
+**Korrapati Jaswanth**  
+Data Science Enthusiast | 23K Followers @Linkedln | Top Machine Learning & Data Analysis Voice on LinkedIn  
+Bangalore, India  
+Reach out via LinkedIn: [https://www.linkedin.com/in/jaswanth49b057228/]
+
+---
+
+## Don't forget to star this repository if you found it helpful!
